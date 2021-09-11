@@ -8,6 +8,8 @@ Blancs de poulet marinés dans une sauce au citron vert, huile d'olive, curry et
 
 ### Prix : 12,90€
 
+---
+
 ![Entrecôte](entrecote.png)
 
 ## Entrecôte (300 gr.)
@@ -16,6 +18,8 @@ Entrecôte assaisonnée généreusement de sel et de poivre. Servit avec un beur
 
 ### Prix : 16,90€
 
+---
+
 ![Entrecôte](ribs.png)
 
 ## Ribs de porc (300 gr.)
@@ -23,6 +27,8 @@ Entrecôte assaisonnée généreusement de sel et de poivre. Servit avec un beur
 Ribs de porc accompagné d'une marinade au cognac, soja et miel.
 
 ### Prix : 11,90€
+
+---
 
 ![Entrecôte](brochettes.png)
 
