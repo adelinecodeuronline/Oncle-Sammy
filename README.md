@@ -2,7 +2,7 @@
 
 ## Durée du projet
 
-7 jours
+10 jours
 
 ## Description
 
