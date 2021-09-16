@@ -6,7 +6,7 @@
 
 ## Description
 
-Bravo ! Vous venez de vous lancer en tant que développeur freelance et vous avez décroché votre premier contrat.
+Bravo ! Vous avez décroché votre premier contrat.
 
 Votre client ? Le restaurant **Oncle Sammy**, spécialisé dans les viandes grillées au barbecue.
 
