@@ -21,6 +21,8 @@ Lors d'une première réunion, vous avez rencontrer Sarah, la directrice de l'en
   * les coordonnées du Service Client ;
   * une carte pour situé le restaurant ;
   * un formulaire fonctionnel.
+* Une page comportant les mentions légales
+* Une page comportant les conditions générales de ventes (voir le fichier CGV.md)
 
 Sarah vous indique aussi que le site doit pouvoir être administré par ses collaborateurs.  
 Il faudra donc ajouter :
