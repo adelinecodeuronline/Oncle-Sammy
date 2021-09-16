@@ -40,6 +40,6 @@ Héberger le Wordpress sur votre serveur pour le rendre accessible en ligne.
 
 ## Git
 
-Le projet doit être présent sur un dépôt Git "public" et l'URL du site doit être renseigné dans la description.
+Le projet doit être présent sur un dépôt Git "public" et l'URL du site doit être renseigné dans le README.
 
 > :warning: **Pas mesure de sécurité, ne reseigner aucun mot de passe ni sur le Git, ni ailleurs !**
