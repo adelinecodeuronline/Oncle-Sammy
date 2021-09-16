@@ -31,7 +31,7 @@ Il faudra donc ajouter :
 * un compte administrateur pour le vous, si cela n'est pas déjà fait ;
 * deux comptes éditeurs.
 
-Le choix du design vous est laissé libre. Faites en sorte que celui-ci soit dans le thème de l'Oncle Sammy.
+Le choix du design vous est laissé libre. Faites en sorte que celui-ci soit dans le thème de la restauration.
 
 Vous avez tous les éléments pour vous lancer dans cette mission… C’est parti !
 
