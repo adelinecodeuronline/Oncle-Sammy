@@ -16,8 +16,11 @@ Cependant, il ne possède pas encore de site Web pour promouvoir ses produits. C
 
 Lors d'une première réunion, vous avez rencontrer Sarah, la directrice de l'enseigne. Lors de cette échange il est ressorti que le site Web doit **absolument posséder** les éléments suivants :
 
-* Une section présentant les quatre produits phares de l'enseigne ;
-* Une page contact avec les coordonnées du Service Client, une carte et un formulaire fonctionnel.
+* Une section présentant les quatre produits phares de l'enseigne (voir le dossier "Produits") ;
+* Une page contact avec :
+  * les coordonnées du Service Client ;
+  * une carte pour situé le restaurant ;
+  * un formulaire fonctionnel.
 
 Sarah vous indique aussi que le site doit pouvoir être administré par ses collaborateurs.  
 Il faudra donc ajouter :
@@ -29,10 +32,6 @@ Il faudra donc ajouter :
 Le choix du design vous est laissé libre. Faites en sorte que celui-ci soit dans le thème de l'Oncle Sammy.
 
 Vous avez tous les éléments pour vous lancer dans cette mission… C’est parti !
-
-## Produits du restaurant
-
-Un dossier regroupe les images des produits à mettre en avant, ainsi qu'un fichier contenant quelques description et prix.
 
 ## Hébergement
 
