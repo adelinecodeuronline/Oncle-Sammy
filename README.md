@@ -2,7 +2,10 @@
 
 ## Durée du projet
 
-10 jours
+**Du 21 septembre au 8 octobre inclus**, journée auquelle se conclura une présentation de **20min maximum**.  
+
+### Un support de présentation est demandé
+> Sachez condenser l'essentiel de votre travail pour la présentation, d'être précis et concis.
 
 ## Description
 
@@ -33,8 +36,11 @@ Il faudra donc ajouter :
 
 ## Analyse SWOT
 
-Vous devez avant de vous lancer une analyse SWOT du projet : https://www.lecoindesentrepreneurs.fr/analyse-swot/  
-Réalisez aussi un dossier sur les tendances des designs Web de site vitrine actuelles sur la restauration :
+Vous devez avant de vous lancer une analyse SWOT du projet : https://www.lecoindesentrepreneurs.fr/analyse-swot/
+
+## Analyse des tendances
+
+Réalisez un dossier sur les tendances des designs Web de site vitrine actuelles sur la restauration :
 * récupérez au minimum 3 designs ;
 * listez les points forts et les points faibles de chaque template.
 
@@ -44,6 +50,11 @@ Héberger le Wordpress sur votre serveur pour le rendre accessible en ligne.
 
 ## Git
 
-Le projet doit être présent sur un dépôt Git "public" et l'URL du site doit être renseigné dans le README.
-
-> :warning: **Pas mesure de sécurité, ne reseigner aucun mot de passe ni sur le Git, ni ailleurs !**
+Le projet doit être présent sur un dépôt Git "public" et doit contenir les livrables suivants :
+* Le fichier contenant les accès aux différents prétendants ;
+* Le dossier d'analyse SWOT ;
+* Le dossier d'analyse des tendances ;
+* Le code source du site Vitrine ;
+* Un fichier README.md contenant :
+  * l'URL du site Vitrine en ligne ;
+  * le prénom et nom des développeurs avec leurs adresses emails
