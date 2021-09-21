@@ -2,7 +2,8 @@
 
 ## Durée du projet
 
-**Du 21 septembre au 4 octobre inclus**, journée sur laquelle se déroulera une présentation de **20 min maximum**.  
+**Du 21 septembre au 4 octobre inclus**.  
+Présentation de **20 min maximum** le 5 octobre.
 
 ### Un support de présentation est demandé
 > Sachez condenser l'essentiel de votre travail pour la présentation, d'être précis et concis.
