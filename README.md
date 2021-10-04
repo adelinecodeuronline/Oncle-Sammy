@@ -1,61 +1,68 @@
 # Oncle Sammy
 
-## Durée du projet
 
-**Du 21 septembre au 4 octobre inclus**.  
-Présentation de **20 min maximum** le 5 octobre.
+## Identifiants connexion
 
-### Un support de présentation est demandé
-> Sachez condenser l'essentiel de votre travail pour la présentation, d'être précis et concis. Une démontration est recommandée.
+* Collaborateur1 (id) --> ACS89
+* Collaborateur2 (id) --> ACS89
+* Sarah (id) --> ACS89
 
-## Description
 
-Bravo ! Vous avez décroché votre premier contrat.
 
-Votre client ? Le restaurant **Oncle Sammy**, spécialisé dans les viandes grillées au barbecue.
+## Analyse SWOT [cf présentation powerpoint]
 
-![Oncle Sammy](logo.jpg)
+//Forces
 
-Cependant, il ne possède pas encore de site Web pour promouvoir ses produits. C'est pour cette raison qu'il fait appel à vous.
+* Viandes locales et bio
+* Fait-maison, savoir-faire, spécialisé, cadre chaleureux et familial, bien noté/bonne réputation, n’est pas impersonnel (pas une chaîne), en pleine expansion. 
+* Possède déjà une clientèle fidèle qui a goût des produits de qualité. Ne fait pas de surgelé. Nom qui porte à la proximité. Forte traçabilité. Qualité mais accessible en terme de prix. 
+* Met en avant les producteurs, se fait une publicité auprès d’eux.
 
-Lors d'une première réunion, vous avez rencontrer Sarah, la directrice de l'enseigne. Lors de cette échange il est ressorti que le site Web doit **absolument posséder** les éléments suivants :
+//Faiblesses
 
-* Une section présentant les quatre produits phares de l'enseigne (voir le dossier "Produits") ;
-* Une page contact avec :
-  * les coordonnées du Service Client ;
-  * une carte pour situé le restaurant ;
-  * un formulaire fonctionnel.
-* Une page comportant les mentions légales
-* Une page comportant les conditions générales de ventes (voir le fichier CGV.md)
+* Beaucoup de concurrents, coût matière première, n’est pas une chaîne (artisan)
+Pas de capacité de production d’une chaîne, manque de visibilité, vient de se lancer, doit se faire connaître. 
+* Règles d’hygiène drastiques qui l’obligent à s’adapter plus qu’une grande chaîne (utilisent surgelé, se font livrer plus souvent). Moins de budget. Plus de dépendance au niveau du personnel (moindre) et dépend des livraisons car passe par prestataires. 
+* Pas les mêmes data pour communiquer (ni ajustement budget). Prend moins de marge que ses concurrents sur les produits car les siens sont plus élevés. Ne peut pas faire pression sur les producteurs.
 
-Sarah vous indique aussi que le site doit pouvoir être administré par ses collaborateurs.  
-Il faudra donc ajouter :
+//Opportunités
 
-* un compte administrateur pour la directrice ;
-* un compte administrateur pour le vous, si cela n'est pas déjà fait ;
-* deux comptes éditeurs.
+* S’étendre localement, et livrer à des horaires plus étendus que ses concurrents (partenariat Uber Eats par exemple). 
+* Plus d’authenticité, plus humain. 
+* Présent sur des foires et salons. Développement d’un foodtruck (près des entreprises par exemple). 
+Développement clientèle très ciblée (salariés d’entreprise qui apprécient plus ce qui se démarque).
 
-## Analyse SWOT
+//Menaces
 
-Vous devez avant de vous lancer une analyse SWOT du projet : https://www.lecoindesentrepreneurs.fr/analyse-swot/
+* Coût général (matières premières et communication). 
+* Clientèle trop versatile, pas toujours assez exigeante donc accepte les produits médiocres des gros concurrents. 
+* Pâti de la mauvaise gestion alimentaire de ses concurrents (on l’assimile à des abus d’hygiène et de provenance de viandes douteuses). 
+* Risque de lassitude de sa clientèle (donc devra se réinventer et trouver des recettes toujours originales).
 
-## Analyse des tendances
 
-Réalisez un dossier sur les tendances des designs Web de site vitrine actuelles sur la restauration :
-* récupérez au minimum 3 designs ;
-* listez les points forts et les points faibles de chaque template.
 
-## Hébergement
+## Tendances Web [cf powerpoint]
 
-Héberger le Wordpress sur votre serveur pour le rendre accessible en ligne.
+https://smokeybones.com
 
-## Git
+https://www.the-bancroft.com
 
-Le projet doit être présent sur un dépôt Git "public" et doit contenir les livrables suivants :
-* Le fichier contenant les accès aux différents prétendants ;
-* Le dossier d'analyse SWOT ;
-* Le dossier d'analyse des tendances ;
-* Le code source du site Vitrine ;
-* Un fichier README.md contenant :
-  * l'URL du site Vitrine en ligne ;
-  * le prénom et nom des développeurs avec leurs adresses emails
+https://ten50bbq.com
+
+
+## URL des propositions de design
+
+https://adelineb.promo-91.codeur.online/onclesammy
+https://adelineb.promo-91.codeur.online/onclesammy2
+
+-------------------------------------------------------
+
+https://brahimc.promo-91.codeur.online/onclesam
+
+## Coordonnées Développeurs/ses
+
+* Adeline Bonnard
+a.bonnard@codeur.online
+
+* Brahim Chahbouni
+b.chahbouni@codeur.online
